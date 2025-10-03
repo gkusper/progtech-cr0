@@ -6,7 +6,7 @@ The same README file applies to all repositories in the series.
 
 ## What is this about?
 
-The goal of this exercise is to practice **mood-driven coding** (“vibe coding”) by solving a **complex programming task**.
+The goal of this exercise is to practice **Vibe Coding** by solving a **complex programming task**.
 Without AI assistance, this task is very difficult: the details are overwhelming, and it is easy to get lost.
 To make it manageable, the task is divided into a series of CRs (Change Requests).
 
@@ -28,7 +28,7 @@ In this series, the CRs simulate a **mini agile project**: in each sprint you re
 ## How to approach the task
 
 * Understanding the CR documents requires strong **text comprehension**.
-* Each CR is accompanied by **unit tests** (GitHub links provided).
+* Each CR is accompanied by **unit tests** in English and in Hungarian.
 * The simplest way is to ask an AI:
   *“Generate production code that passes the unit tests from the following link!”*
 * Alternatively, you may write the tests yourself based on the text, or solve the task without tests at all.
@@ -41,7 +41,7 @@ In this series, the CRs simulate a **mini agile project**: in each sprint you re
 
 ## Possible goals
 
-* **Maximize green tests in one hour.** Completing all CRs within 1 hour is an achievement.
+* **Maximize passing tests in one hour.** Completing all CRs within 1 hour is an achievement.
 * **Daily practice (30 minutes per day).** This simulates a real hobby project.
 * **Using AI to generate unit tests.** Useful to learn test-driven AI-assisted development.
 * **Solving without unit tests.** Useful to test text comprehension (your own or the AI’s).
@@ -52,9 +52,9 @@ In this series, the CRs simulate a **mini agile project**: in each sprint you re
 
 ## Instructions for progressing
 
-* **Do not start CR1 until all CR0 tests are green.**
-* **Do not start CR2 until all CR0 and CR1 tests are green.**
-* Continue likewise: only proceed when **all previous CRs are fully green**.
+* **Do not start CR1 until all CR0 tests are passing.**
+* **Do not start CR2 until all CR0 and CR1 tests are passing.**
+* Continue likewise: only proceed when **all previous CRs are fully passing**.
 * Refactor frequently.
 
 ## Typical pitfalls
@@ -72,12 +72,12 @@ The purpose of the CR series is **twofold**:
 1. To explore how quickly you can progress with AI assistance.
 2. To learn how to **grow a project step by step**, considering the consequences of previous design decisions.
 
-Mood-driven coding is about **flexibility**: instead of planning every detail in advance, you always focus on the **next logical step**.
+**Vibe Coding** is about **flexibility**: instead of planning every detail in advance, you always focus on the **next logical step**.
 This CR-based exercise series is a perfect way to practice that approach.
 
 ## Final note
 
 Enjoy the process.
 Observe your progress.
-Remember: the goal is **not perfect code**, but to **explore tools, methods, and mood-driven coding**.
+Remember: the goal is **not perfect code**, but to **explore tools, methods, and Vibe Coding**.
 And if you don’t like the given CRs—feel free to invent your own!
